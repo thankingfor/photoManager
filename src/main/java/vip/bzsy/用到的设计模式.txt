@@ -1,0 +1,4 @@
+1. Driver中 提供阿里云Client的单利对象  用到单利模式
+2. CliporadOperateUtils 提取共用方法，避免重复  所以外观模式
+3. 项目用到目录，存在节点和容器，所以用到 组合模式
+4. 模板方法模式  swing的listener中的组建用了大量的监听，而listener就是模板方法中的handler

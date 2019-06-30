@@ -1,0 +1,6 @@
+Manifest-Version: 1.0
+Class-Path: commons-codec-1.9.jar httpcore-4.4.1.jar commons-logging-1
+ .2.jar json-20160810.jar aliyun-sdk-oss-2.8.3.jar java-sdk-4.10.0.jar
+  jdom-1.1.jar log4j-1.2.17.jar httpclient-4.4.1.jar
+Main-Class: vip.bzsy.App
+
