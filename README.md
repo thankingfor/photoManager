@@ -5,9 +5,11 @@
 
 阿里云oss的配置和百度云的配置   位置在项目resources/conf/conf.properties
 
+![图片演示1](E:\Study\IDEA\space\photoManager\img\项目演示2.png)
+
 ## 2.图片演示
 
-![图片演示1](http://bzsy.oss-cn-beijing.aliyuncs.com/image/youdao/markdown/%E9%9A%8F%E4%BE%BF/%E9%A1%B9%E7%9B%AE%E6%BC%94%E7%A4%BA1.png?Expires=1877249041&OSSAccessKeyId=LTAIaMTOFLIoftS7&Signature=tlZJhAmB6%2FVam8%2B3uUXF2pBqkb0%3D)
+![图片演示1](E:\Study\IDEA\space\photoManager\img\项目演示1.png)
 
 ## 3.功能如下
 
