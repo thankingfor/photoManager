@@ -5,11 +5,11 @@
 
 阿里云oss的配置和百度云的配置   位置在项目resources/conf/conf.properties
 
-![图片演示1](E:\Study\IDEA\space\photoManager\img\项目演示2.png)
+![项目演示](https://github.com/thankingfor/photoManager/blob/master/img/项目演示2.png)
 
 ## 2.图片演示
 
-![图片演示1](E:\Study\IDEA\space\photoManager\img\项目演示1.png)
+![图片演示1](https://github.com/thankingfor/photoManager/blob/master/img/项目演示1.png)
 
 ## 3.功能如下
 
